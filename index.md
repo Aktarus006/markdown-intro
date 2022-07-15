@@ -7,3 +7,7 @@
 const message = "Hello World !"
 console.log({ message })
 ```
+
+- [x] Make A Faldorn deck
+- [ ] Looks for specific cards
+- [ ] Smash my opponents
